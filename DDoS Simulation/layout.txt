@@ -1,0 +1,67 @@
+n -t * -s 16 -v hexagon -c black -z 0.207150 -S UP -b "R8"
+n -t * -s 15 -v hexagon -c black -z 0.207150 -S UP -b "R7"
+n -t * -s 14 -v hexagon -c black -z 0.207150 -S UP -b "R6"
+n -t * -s 32 -v circle -c orange -z 0.207150 -S UP -b "Decoy3"
+n -t * -s 13 -v hexagon -c black -z 0.207150 -S UP -b "R5"
+n -t * -s 31 -v circle -c orange -z 0.207150 -S UP -b "Decoy2"
+n -t * -s 12 -v hexagon -c black -z 0.207150 -S UP -b "R4"
+n -t * -s 29 -v circle -c blue -z 0.207150 -S UP -b "Web Server"
+n -t * -s 30 -v circle -c orange -z 0.207150 -S UP -b "Decoy1"
+n -t * -s 11 -v hexagon -c black -z 0.207150 -S UP -b "R3"
+n -t * -s 28 -v circle -c green -z 0.207150 -S UP -b "User4"
+n -t * -s 10 -v hexagon -c black -z 0.207150 -S UP -b "R2"
+n -t * -s 9 -v hexagon -c black -z 0.207150 -S UP -b "R1"
+n -t * -s 27 -v circle -c green -z 0.207150 -S UP -b "User3"
+n -t * -s 8 -v circle -c red -z 0.207150 -S UP -b "Bot9"
+n -t * -s 26 -v circle -c green -z 0.207150 -S UP -b "User2"
+n -t * -s 7 -v circle -c red -z 0.207150 -S UP -b "Bot8"
+n -t * -s 25 -v circle -c green -z 0.207150 -S UP -b "User1"
+n -t * -s 6 -v circle -c red -z 0.207150 -S UP -b "Bot7"
+n -t * -s 24 -v hexagon -c black -z 0.207150 -S UP -b "R16"
+n -t * -s 5 -v circle -c red -z 0.207150 -S UP -b "Bot6"
+n -t * -s 23 -v hexagon -c black -z 0.207150 -S UP -b "R15"
+n -t * -s 4 -v circle -c red -z 0.207150 -S UP -b "Bot5"
+n -t * -s 22 -v hexagon -c black -z 0.207150 -S UP -b "R14"
+n -t * -s 3 -v circle -c red -z 0.207150 -S UP -b "Bot4"
+n -t * -s 21 -v hexagon -c black -z 0.207150 -S UP -b "R13"
+n -t * -s 2 -v circle -c red -z 0.207150 -S UP -b "Bot3"
+n -t * -s 19 -v hexagon -c black -z 0.207150 -S UP -b "R11"
+n -t * -s 20 -v hexagon -c black -z 0.207150 -S UP -b "R12"
+n -t * -s 1 -v circle -c red -z 0.207150 -S UP -b "Bot2"
+n -t * -s 18 -v hexagon -c black -z 0.207150 -S UP -b "R10"
+n -t * -s 0 -v circle -c red -z 0.207150 -S UP -b "Bot1"
+n -t * -s 17 -v hexagon -c black -z 0.207150 -S UP -b "R9"
+l -t * -s 16 -d 20 -r 950000.000000 -D 0.005000 -c black -o 6.6deg -l 1.140764 -S UP
+l -t * -s 15 -d 19 -r 950000.000000 -D 0.005000 -c black -o 58.9deg -l 1.173967 -S UP
+l -t * -s 15 -d 28 -r 950000.000000 -D 0.005000 -c black -o 156.2deg -l 0.688308 -S UP
+l -t * -s 14 -d 19 -r 950000.000000 -D 0.005000 -c black -o 17.9deg -l 0.829574 -S UP
+l -t * -s 13 -d 22 -r 950000.000000 -D 0.005000 -c black -o 90.6deg -l 0.892271 -S UP
+l -t * -s 13 -d 27 -r 950000.000000 -D 0.005000 -c black -o 201.7deg -l 0.700006 -S UP
+l -t * -s 12 -d 18 -r 950000.000000 -D 0.005000 -c black -o 0.2deg -l 0.570423 -S UP
+l -t * -s 12 -d 26 -r 950000.000000 -D 0.005000 -c black -o 209.0deg -l 1.219391 -S UP
+l -t * -s 11 -d 12 -r 950000.000000 -D 0.005000 -c black -o 270.4deg -l 0.382145 -S UP
+l -t * -s 10 -d 17 -r 950000.000000 -D 0.005000 -c black -o 6.2deg -l 0.864737 -S UP
+l -t * -s 9 -d 17 -r 950000.000000 -D 0.005000 -c black -o 317.4deg -l 1.332761 -S UP
+l -t * -s 9 -d 25 -r 950000.000000 -D 0.005000 -c black -o 205.6deg -l 0.716883 -S UP
+l -t * -s 8 -d 24 -r 950000.000000 -D 0.005000 -c black -o 270.4deg -l 0.649794 -S UP
+l -t * -s 7 -d 16 -r 950000.000000 -D 0.005000 -c black -o 1.2deg -l 0.617699 -S UP
+l -t * -s 6 -d 15 -r 950000.000000 -D 0.005000 -c black -o 11.5deg -l 0.670723 -S UP
+l -t * -s 6 -d 28 -r 950000.000000 -D 0.005000 -c black -o 85.4deg -l 0.290756 -S UP
+l -t * -s 5 -d 14 -r 950000.000000 -D 0.005000 -c black -o 357.7deg -l 0.272782 -S UP
+l -t * -s 23 -d 29 -r 950000.000000 -D 0.005000 -c black -o 2.1deg -l 1.844594 -S UP
+l -t * -s 23 -d 32 -r 950000.000000 -D 0.005000 -c black -o 345.8deg -l 1.927670 -S UP
+l -t * -s 23 -d 31 -r 950000.000000 -D 0.005000 -c black -o 19.0deg -l 2.106498 -S UP
+l -t * -s 4 -d 13 -r 950000.000000 -D 0.005000 -c black -o 328.3deg -l 0.778684 -S UP
+l -t * -s 3 -d 12 -r 950000.000000 -D 0.005000 -c black -o 359.3deg -l 1.162528 -S UP
+l -t * -s 21 -d 22 -r 950000.000000 -D 0.005000 -c purple -o 239.0deg -l 0.736028 -S UP
+l -t * -s 21 -d 23 -r 950000.000000 -D 0.005000 -c black -o 36.9deg -l 1.496472 -S UP
+l -t * -s 21 -d 30 -r 950000.000000 -D 0.005000 -c black -o 81.5deg -l 0.505557 -S UP
+l -t * -s 2 -d 11 -r 950000.000000 -D 0.005000 -c black -o 0.7deg -l 1.231406 -S UP
+l -t * -s 19 -d 20 -r 950000.000000 -D 0.005000 -c black -o 272.8deg -l 1.833882 -S UP
+l -t * -s 19 -d 23 -r 950000.000000 -D 0.005000 -c purple -o 95.8deg -l 1.888064 -S UP
+l -t * -s 1 -d 10 -r 950000.000000 -D 0.005000 -c black -o 3.9deg -l 0.625865 -S UP
+l -t * -s 18 -d 22 -r 950000.000000 -D 0.005000 -c black -o 358.3deg -l 0.549393 -S UP
+l -t * -s 0 -d 9 -r 950000.000000 -D 0.005000 -c black -o 340.8deg -l 0.709664 -S UP
+l -t * -s 17 -d 23 -r 950000.000000 -D 0.005000 -c purple -o 358.1deg -l 2.863190 -S UP
+l -t * -s 17 -d 21 -r 950000.000000 -D 0.005000 -c black -o 326.5deg -l 1.848813 -S UP
+l -t * -s 17 -d 24 -r 950000.000000 -D 0.005000 -c black -o 86.3deg -l 0.276320 -S UP
